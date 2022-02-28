@@ -1,0 +1,48 @@
+/*BEGIN Xbox One Controller Styling*/
+.controller.edit {
+    background: url(xboxsx.png) !important;
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+.controller.xbox.edit {
+    background: url(xboxsx.png) !important;
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+.controller.xbox {
+    background: url(xboxsx.png) !important;
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+.controller {
+    background: url(xboxsx.png) !important;
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+.xbox {
+    background: url(xboxsx.png) !important;
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+
+.xbox.white {
+    background: url(xboxsx.png) !important;
+}
+
+.xbox.disconnected {
+    background: url(xboxsx.png) !important;
+}
+/*END Xbox One Controller Styling*/
