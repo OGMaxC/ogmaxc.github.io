@@ -16,7 +16,13 @@
     margin-top: 0px;
     opacity: 1;
 }
-
+.xbox .arrows {
+    position: absolute;
+    width: 141px;
+    height: 33px;
+    top: 264px;
+    left: 308px;
+}
 .xbox .triggers {
     width: 446px;
     height: 121px;
