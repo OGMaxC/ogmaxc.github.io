@@ -41,4 +41,14 @@
     left: 110px;
     top: 129px;
 }
+.xbox .quadrant {
+    position: absolute;
+    background: url(xbox-assets/quadrant.svgz);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+    visibility: hidden;
+}
 /*END Xbox One Controller Styling*/
