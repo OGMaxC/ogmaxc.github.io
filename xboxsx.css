@@ -6,41 +6,6 @@
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
-.controller.xbox.edit {
-    background: url(xboxsx.png) !important;
-    height: 630px;
-    width: 750px;
-    /*    margin-left: -375px;
-        margin-top: -285px;*/
-}
-.controller.xbox {
-    background: url(xboxsx.png) !important;
-    height: 630px;
-    width: 750px;
-    /*    margin-left: -375px;
-        margin-top: -285px;*/
-}
-
-.controller {
-    background: url(xboxsx.png) !important;
-    height: 630px;
-    width: 750px;
-    /*    margin-left: -375px;
-        margin-top: -285px;*/
-}
-
-.xbox {
-    background: url(xboxsx.png) !important;
-    height: 630px;
-    width: 750px;
-    /*    margin-left: -375px;
-        margin-top: -285px;*/
-}
-
-
-.xbox.white {
-    background: url(xboxsx.png) !important;
-}
 
 .xbox.disconnected {
     background: url(xboxsx.png) !important;
@@ -50,17 +15,5 @@
     background-position-y: -48px;
     margin-top: 0px;
     opacity: 1;
-}
-
-.xbox .a {
-    background-position: 0 0;
-    top: 108px;
-    left: 55px;
-}
-.xbox .button {
-    position: absolute;
-    background: url(xbox-assets/abxy.svgz);
-    width: 48px;
-    height: 48px;
 }
 /*END Xbox One Controller Styling*/
