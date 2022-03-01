@@ -29,4 +29,11 @@
     position: absolute;
     left: 156px;
 }
+.xbox .bumpers {
+    position: absolute;
+    width: 536px;
+    height: 61px;
+    left: 110px;
+    top: 129px;
+}
 /*END Xbox One Controller Styling*/
