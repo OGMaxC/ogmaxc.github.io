@@ -16,4 +16,11 @@
     margin-top: 0px;
     opacity: 1;
 }
+
+.xbox .triggers {
+    width: 446px;
+    height: 121px;
+    position: absolute;
+    left: 156px;
+}
 /*END Xbox One Controller Styling*/
