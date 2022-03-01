@@ -10,7 +10,12 @@
 .xbox.disconnected {
     background: url(xboxsx.png) !important;
 }
-
+.xbox .bumper {
+    width: 170px;
+    height: 61px;
+    background: url(bumper.png);
+    opacity: 0;
+}
 .xbox .button.pressed {
     background-position-y: -48px;
     margin-top: 0px;
